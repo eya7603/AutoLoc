@@ -1,0 +1,3 @@
+package org.example.autoloc.entities.enums;
+
+public enum ModePaiement { CARTE, ESPECES, VIREMENT }
